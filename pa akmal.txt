@@ -1,0 +1,21 @@
+		Git - version control 
+contoh aplikasi yang bisa digunakan:
+- Github 
+- BitBucket, kelebihannya sudah ada repositories gratis
+- GitLab
+---------------------------------------------
+- Git-version control 
+- Basic terminal usage adalah penggunaan dasar dari terminal, contoh cmd
+- Data struktur dan algoritma 
+- Github salah satu contoh aplikasi dari git version control
+- lecenses (perijinan)
+- Semantic Versioning adalah cara penulisan
+  Update Major (depan) adalah update secara besar2an
+  Update Minor (belakang)
+- SSH adlh sebuah protokol jaringan untuk komunikasi data dan eksekusi perintah jarak jauh
+  serta layanan jaringan antar 2 komputer
+- HTTP/HTTPS/APIs(Aplication Programing Interfaces)
+- Design Paterns
+- Character Encogings
+
+		
